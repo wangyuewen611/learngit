@@ -1,3 +1,2 @@
 2023-09-18 learn git status
-I am the 2nd contributor
-I am the first contributor
+happy new year 2019
